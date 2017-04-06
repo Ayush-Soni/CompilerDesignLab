@@ -1,0 +1,1 @@
+Labs 1 to 5 are based on Lexical Analyer, which is used in each of labs 7 to 10, and included in the corresponding folders.
